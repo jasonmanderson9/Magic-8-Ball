@@ -29,7 +29,7 @@ class Main {
     answers.put(20, "Very doubtful.");
 
     // Explain the 8 ball to the player
-    System.out.print("\nI am a magic 8 ball \nAsk me a question to learn your fortune!\n");
+    System.out.print("I am a magic 8 ball \nAsk me a question to learn your fortune!\n");
 
     // Ask player for their question
     Scanner myObj = new Scanner(System.in);
